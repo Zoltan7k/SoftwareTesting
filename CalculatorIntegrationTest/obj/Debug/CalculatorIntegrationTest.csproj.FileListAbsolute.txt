@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Calculator\CalculatorIntegrationTest\bin\Debug\CalculatorIntegrationTest.dll
+C:\Users\Administrator\Desktop\Calculator\CalculatorIntegrationTest\bin\Debug\CalculatorIntegrationTest.pdb
+C:\Users\Administrator\Desktop\Calculator\CalculatorIntegrationTest\bin\Debug\Calculator.dll
+C:\Users\Administrator\Desktop\Calculator\CalculatorIntegrationTest\bin\Debug\Calculator.pdb
+C:\Users\Administrator\Desktop\Calculator\CalculatorIntegrationTest\obj\Debug\CalculatorIntegrationTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Calculator\CalculatorIntegrationTest\obj\Debug\CalculatorIntegrationTest.dll
+C:\Users\Administrator\Desktop\Calculator\CalculatorIntegrationTest\obj\Debug\CalculatorIntegrationTest.pdb
